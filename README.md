@@ -39,4 +39,5 @@ To study model performance under different conditions:
 - **Purpose**: Examines how accuracy, precision, recall, and F1-score vary with:
   - Different noise levels
   - Varying dataset sizes
-- **Models Compar
+- **Models Compared**: LLM-ARFE, KNN, LR, SVC
+
